@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="jars/icu4j-55_1.jar"/>
+	<classpathentry kind="lib" path="jars/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="jars/jna-platform.jar"/>
+	<classpathentry kind="lib" path="jars/jna.jar"/>
+	<classpathentry kind="lib" path="jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="jars/mysql-connector-java-5.1.16-bin.jar"/>
+	<classpathentry kind="lib" path="jars/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jars/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jars/prompt.jar"/>
+	<classpathentry kind="lib" path="jars/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
